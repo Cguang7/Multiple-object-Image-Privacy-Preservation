@@ -1,0 +1,2 @@
+# Multiple-object-Image-Privacy-Preservation
+This project is aimed to achieve the goal of image privacy preservation.  This project contains two scenarios, the first one is to find objects that are related to people and the scene background in the image, then deal with the area of these objects and relaize the privacy preservation. The second scenario is to classify different importance people in the image, and use different methods to deal with the area of different people.  
